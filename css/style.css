@@ -34,6 +34,13 @@ body{
 .bg-lighter{
     background-color: #e2ecec;
 }
+.trans{
+    -webkit-transition: all .4s ease;
+    -moz-transition: all .4s ease;
+    -ms-transition: all .4s ease;
+    -o-transition: all .4s ease;
+    transition: all .4s ease;
+}
 .text-darker{
     color: #146266;
 }
@@ -58,6 +65,9 @@ body{
 .text-aqua{
     color: #30c4c5  ;
 }
+.word-breack{
+    word-break: break-all;
+}
 /*--start header--*/
 header, main{
     background-image: linear-gradient(to right, white,#146266,#146266,#146266,white);
@@ -68,6 +78,7 @@ header .img-block{
     border-radius: 20px;
     overflow: hidden;
 }
+
 /*--end header--*/
 /*--start-main--*/
 .scills-progress div{
@@ -92,6 +103,18 @@ header .img-block{
     -webkit-box-shadow: inset 0px 0px 3px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: inset 0px 0px 3px 0px rgba(0,0,0,0.75);
     box-shadow: inset 0px 0px 3px 0px rgba(0,0,0,0.75);
-
+}
+.project-list a:before, .company:before{
+    content: '';
+    position: absolute;
+    left:0;
+    right: 0;
+    bottom: 0;
+    width: 0;
+    border-bottom: 2px solid #589093;
+    -webkit-transition: width 0.4s ease;
+    -moz-transition: width 0.4s ease;
+    -o-transition: width 0.4s ease;
+    transition: width 0.4s ease;
 }
 /*--end-main--*/
