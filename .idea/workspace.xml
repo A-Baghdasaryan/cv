@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9d03f78-9e93-41e5-8192-42c556cad477" name="Default" comment="" />
+    <list default="true" id="f9d03f78-9e93-41e5-8192-42c556cad477" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/hover.css" afterPath="$PROJECT_DIR$/css/hover.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/responsive.css" afterPath="$PROJECT_DIR$/css/responsive.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,13 +17,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="73" lean-forward="false" selection-start-line="17" selection-start-column="73" selection-end-line="17" selection-end-column="73" />
+            <state relative-caret-position="2703">
+              <caret line="183" column="41" lean-forward="false" selection-start-line="183" selection-start-column="41" selection-end-line="183" selection-end-column="41" />
               <folding>
-                <element signature="n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -37,8 +41,28 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            <state relative-caret-position="485">
+              <caret line="124" column="0" lean-forward="false" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hover.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/hover.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="responsive.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/responsive.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -51,15 +75,23 @@
       <find>fs-</find>
       <find>ashkh</find>
       <find>fo</find>
+      <find>Erevan</find>
     </findStrings>
+    <replaceStrings>
+      <replace>Yerevan</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/dashbord/css/entypo-font.css" />
-        <option value="$PROJECT_DIR$/css/responsive.css" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/css/responsive.css" />
+        <option value="$PROJECT_DIR$/css/hover.css" />
       </list>
     </option>
   </component>
@@ -73,8 +105,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -91,6 +123,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -113,6 +146,52 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cv" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cv" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fonts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entypo-font" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cv" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -120,7 +199,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -149,7 +227,65 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
       <method />
     </configuration>
   </component>
@@ -165,26 +301,27 @@
       <updated>1539614682515</updated>
       <workItem from="1539614684229" duration="933000" />
       <workItem from="1539620450183" duration="4843000" />
+      <workItem from="1551337267502" duration="135000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5776000" />
+    <option name="totallyTimeSpent" value="5911000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25036603" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2531983" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -207,10 +344,36 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#5;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#6;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#ul#1;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#1;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#1;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1445">
           <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
           <folding>
-            <element signature="n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -237,32 +400,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/responsive.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="73" lean-forward="false" selection-start-line="17" selection-start-column="73" selection-end-line="17" selection-end-column="73" />
+        <state relative-caret-position="2703">
+          <caret line="183" column="41" lean-forward="false" selection-start-line="183" selection-start-column="41" selection-end-line="183" selection-end-column="41" />
           <folding>
-            <element signature="n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -274,6 +419,30 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#1;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#1;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="124" column="0" lean-forward="false" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/hover.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
